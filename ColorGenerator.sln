@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator", "ColorPlayground\ColorGenerator.csproj", "{F67843A0-D95A-4921-BB2A-87C9AAF77A93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator", "ColorGenerator\ColorGenerator.csproj", "{F67843A0-D95A-4921-BB2A-87C9AAF77A93}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator.logic", "ColorPlayground.logic\ColorGenerator.logic.csproj", "{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator.logic", "ColorGenerator.logic\ColorGenerator.logic.csproj", "{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

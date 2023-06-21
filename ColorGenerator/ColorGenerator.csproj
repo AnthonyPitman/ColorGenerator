@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ColorPlayground.logic\ColorGenerator.logic.csproj" />
+      <ProjectReference Include="..\ColorGenerator.logic\ColorGenerator.logic.csproj" />
     </ItemGroup>
 
 </Project>
