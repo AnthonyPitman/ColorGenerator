@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPlayground", "ColorPlayground\ColorPlayground.csproj", "{F67843A0-D95A-4921-BB2A-87C9AAF77A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPlayground.logic", "ColorPlayground.logic\ColorPlayground.logic.csproj", "{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67843A0-D95A-4921-BB2A-87C9AAF77A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67843A0-D95A-4921-BB2A-87C9AAF77A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67843A0-D95A-4921-BB2A-87C9AAF77A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67843A0-D95A-4921-BB2A-87C9AAF77A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
