@@ -15,7 +15,7 @@ namespace ColorGenerator
 
         void GenerateColorBtn_OnClick(object sender, RoutedEventArgs e)
         {
-            var color = ColorPlayground.logic.ColorGenerator.GenerateColor();
+            var color = logic.ColorGenerator.GenerateColor();
             ColorSwatch.Fill = new SolidColorBrush(color);
             AlphaTextBox.Text = color.A.ToString();
             RedTextBox.Text = color.R.ToString();

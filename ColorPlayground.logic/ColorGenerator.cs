@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Media;
 
-namespace ColorPlayground.logic;
+namespace ColorGenerator.logic;
 
 public class ColorGenerator
 {

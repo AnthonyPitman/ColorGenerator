@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator", "ColorPlayground\ColorGenerator.csproj", "{F67843A0-D95A-4921-BB2A-87C9AAF77A93}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorPlayground.logic", "ColorPlayground.logic\ColorPlayground.logic.csproj", "{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorGenerator.logic", "ColorPlayground.logic\ColorGenerator.logic.csproj", "{C6DFC741-6DB3-4D0D-BA7F-4826B84AEA72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4501CD50-0DB6-4B80-BB3D-16568AE7D958}
 	EndGlobalSection
 EndGlobal
