@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ColorPlayground"
         mc:Ignorable="d"
         Width="500" Height="300"
-        Title="Color Playground"
+        Title="Color Generator"
         FontSize="24" WindowStyle="ToolWindow"
         FontFamily="Arial">
     <Grid Margin="0,2,0,12">
