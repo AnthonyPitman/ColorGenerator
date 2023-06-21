@@ -1,8 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
-using ColorPlayground.logic;
 
-namespace ColorPlayground
+namespace ColorGenerator
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -16,7 +15,7 @@ namespace ColorPlayground
 
         void GenerateColorBtn_OnClick(object sender, RoutedEventArgs e)
         {
-            var color = ColorGenerator.GenerateColor();
+            var color = ColorPlayground.logic.ColorGenerator.GenerateColor();
             ColorSwatch.Fill = new SolidColorBrush(color);
             AlphaTextBox.Text = color.A.ToString();
             RedTextBox.Text = color.R.ToString();

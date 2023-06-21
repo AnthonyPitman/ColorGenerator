@@ -1,7 +1,7 @@
-﻿<Application x:Class="ColorPlayground.App"
+﻿<Application x:Class="ColorGenerator.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ColorPlayground"
+             xmlns:local="clr-namespace:ColorGenerator"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
